@@ -8,6 +8,7 @@ import address from './images/address.png';
 import suggestion from './images/suggestion.png';
 import beers from './images/beers.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
 
 import { Button, Col, Container, Image, Row } from 'react-bootstrap';
 
