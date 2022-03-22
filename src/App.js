@@ -1,4 +1,3 @@
-import './App.css';
 import party from './images/fiesta.png';
 import eightys from './images/80.png';
 import inviteText from './images/youAreInvited.png';
@@ -59,7 +58,7 @@ function App() {
                 variant='primary'
                 href='https://www.google.com/maps/dir//Nacional+301,+45765+Gral+Andr%C3%A9s+Figueroa,+Jal./@20.2949286,-103.6073145,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8425f6ecc84ac359:0xd2accfafcb4cf237!2m2!1d-103.6051258!2d20.2949236!3e0'
               >
-                OBTENER DIRECCIONES
+                Ver Mapa
               </Button>
             </Col>
           </Row>
